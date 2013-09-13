@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MCGDS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-13 14:57+0200\n"
+"PO-Revision-Date: 2013-09-13 15:07+0100\n"
+"Last-Translator: Fabio Comuni <fabio.comuni@gdscom.it>\n"
+"Language-Team: Italia\n"
+"Language: Italian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: it_IT\n"
+"X-Source-Language: C\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: .\forms\admin.py:37 .\forms\fields.py:32
+msgid "Email"
+msgstr "Email"
+
+#: .\forms\admin.py:42 .\forms\models.py:55 .\forms\models.py:142
+msgid "Slug"
+msgstr "Slug"
+
+#: .\forms\admin.py:45
+msgid "Sites"
+msgstr "Siti"
+
+#: .\forms\admin.py:168
+#, python-format
+msgid "1 entry deleted"
+msgid_plural "%(count)s entries deleted"
+msgstr[0] "1 voce cancellata"
+msgstr[1] "%(count)s voci cancellate"
+
+#: .\forms\admin.py:172
+msgid "View Entries"
+msgstr "Visualizza le voci"
+
+#: .\forms\fields.py:30
+msgid "Single line text"
+msgstr "Testo su linea singola"
+
+#: .\forms\fields.py:31
+msgid "Multi line text"
+msgstr "Testo su linee multiple"
+
+#: .\forms\fields.py:33
+msgid "Number"
+msgstr "Numero"
+
+#: .\forms\fields.py:34
+msgid "URL"
+msgstr "URL"
+
+#: .\forms\fields.py:35
+msgid "Check box"
+msgstr "Check box"
+
+#: .\forms\fields.py:36
+msgid "Check boxes"
+msgstr "Check boxes"
+
+#: .\forms\fields.py:37
+msgid "Drop down"
+msgstr "Drop down"
+
+#: .\forms\fields.py:38
+msgid "Multi select"
+msgstr "Selezione multipla"
+
+#: .\forms\fields.py:39
+msgid "Radio buttons"
+msgstr "Bottoni Radio"
+
+#: .\forms\fields.py:40
+msgid "File upload"
+msgstr "Carica file"
+
+#: .\forms\fields.py:41
+msgid "Date"
+msgstr "Data"
+
+#: .\forms\fields.py:42 .\forms\models.py:210
+msgid "Date/time"
+msgstr "Data/ora"
+
+#: .\forms\fields.py:43
+msgid "Date of birth"
+msgstr "Data di nascita"
+
+#: .\forms\fields.py:44
+msgid "Hidden"
+msgstr "Nascosto"
+
+#: .\forms\forms.py:30 .\forms\forms.py:38 .\forms\forms.py:44
+msgid "Nothing"
+msgstr "Niente"
+
+#: .\forms\forms.py:31
+msgid "Contains"
+msgstr "Contiene"
+
+#: .\forms\forms.py:32
+msgid "Doesn't contain"
+msgstr "Non contiene"
+
+#: .\forms\forms.py:33 .\forms\forms.py:39
+msgid "Equals"
+msgstr "E' uguale"
+
+#: .\forms\forms.py:34 .\forms\forms.py:40
+msgid "Doesn't equal"
+msgstr "Non è uguale"
+
+#: .\forms\forms.py:45
+msgid "Is between"
+msgstr "E' tra"
+
+#: .\forms\forms.py:222
+msgid "Checked"
+msgstr "Selezionato"
+
+#: .\forms\forms.py:222
+msgid "Not checked"
+msgstr "Non selezionato"
+
+#: .\forms\forms.py:236 .\forms\forms.py:251
+msgid "and"
+msgstr "e"
+
+#: .\forms\models.py:17
+msgid "Draft"
+msgstr "Bozza"
+
+#: .\forms\models.py:18
+msgid "Published"
+msgstr "Pubblicato"
+
+#: .\forms\models.py:54
+msgid "Title"
+msgstr "Titolo"
+
+#: .\forms\models.py:57
+msgid "Intro"
+msgstr "Intro"
+
+#: .\forms\models.py:58
+msgid "Button text"
+msgstr "Testo bottone"
+
+#: .\forms\models.py:59
+msgid "Submit"
+msgstr "Invia"
+
+#: .\forms\models.py:60
+msgid "Response"
+msgstr "Risposta"
+
+#: .\forms\models.py:61
+msgid "Status"
+msgstr "Stato"
+
+#: .\forms\models.py:63
+msgid "Published from"
+msgstr "Pubblicato da"
+
+#: .\forms\models.py:64
+msgid "With published selected, won't be shown until this time"
+msgstr ""
+"Con la pubblicazione selezionata, non verrà mostrata fino a questo momento"
+
+#: .\forms\models.py:66
+msgid "Expires on"
+msgstr "Scade il"
+
+#: .\forms\models.py:67
+msgid "With published selected, won't be shown after this time"
+msgstr ""
+"Con la pubblicazione selezionata, non verrà mostrata dopo questo momento"
+
+#: .\forms\models.py:69
+msgid "Login required"
+msgstr "Richiesto login"
+
+#: .\forms\models.py:70
+msgid "If checked, only logged in users can view the form"
+msgstr "Se selezionato, solo gli utenti loggati possono vedere la form"
+
+#: .\forms\models.py:71
+msgid "Send email"
+msgstr "Invia email"
+
+#: .\forms\models.py:72
+msgid "If checked, the person entering the form will be sent an email"
+msgstr ""
+"Se selezionato, verrà inviata una e-mail alle persone che riempiono la form"
+
+#: .\forms\models.py:73
+msgid "From address"
+msgstr "Dall'indirzzo"
+
+#: .\forms\models.py:74
+msgid "The address the email will be sent from"
+msgstr "L'indirrizo da cui sarà inviata l'e-mail"
+
+#: .\forms\models.py:75
+msgid "Send copies to"
+msgstr "Invia copie a"
+
+#: .\forms\models.py:76
+msgid "One or more email addresses, separated by commas"
+msgstr "Uno o più indirizzi e-mail, separati da virgola"
+
+#: .\forms\models.py:78
+msgid "Subject"
+msgstr "Oggetto"
+
+#: .\forms\models.py:79
+msgid "Message"
+msgstr "Messaggio"
+
+#: .\forms\models.py:84
+msgid "Form"
+msgstr "Form"
+
+#: .\forms\models.py:85
+msgid "Forms"
+msgstr "Forms"
+
+#: .\forms\models.py:116
+msgid "View form on site"
+msgstr "Vedi form sul sito"
+
+#: .\forms\models.py:117
+msgid "Filter entries"
+msgstr "Filtra le voci"
+
+#: .\forms\models.py:118
+msgid "View all entries"
+msgstr "Visualizza tutte le voci"
+
+#: .\forms\models.py:119
+msgid "Export all entries"
+msgstr "Esporta tutte le voci"
+
+#: .\forms\models.py:141
+msgid "Label"
+msgstr "Etichetta"
+
+#: .\forms\models.py:144
+msgid "Type"
+msgstr "Tipo"
+
+#: .\forms\models.py:145
+msgid "Required"
+msgstr "Richiesto"
+
+#: .\forms\models.py:146
+msgid "Visible"
+msgstr "Visibile"
+
+#: .\forms\models.py:147
+msgid "Choices"
+msgstr "Scelte"
+
+#: .\forms\models.py:152
+msgid "Default value"
+msgstr "Valore di defatul"
+
+#: .\forms\models.py:154
+msgid "Placeholder Text"
+msgstr "Testo Segnaposto"
+
+#: .\forms\models.py:156
+msgid "Help text"
+msgstr "Testo di aiuto"
+
+#: .\forms\models.py:161 .\forms\templates\admin\forms\entries.html.py:87
+msgid "Field"
+msgstr "Campo"
+
+#: .\forms\models.py:162
+msgid "Fields"
+msgstr "Campi"
+
+#: .\forms\models.py:213
+msgid "Form entry"
+msgstr "Voce della form"
+
+#: .\forms\models.py:214
+msgid "Form entries"
+msgstr "Voci della form"
+
+#: .\forms\models.py:228
+msgid "Form field entry"
+msgstr "Voce del campo della form"
+
+#: .\forms\models.py:229
+msgid "Form field entries"
+msgstr "Voci del campo della form"
+
+#: .\forms\models.py:257
+msgid "Order"
+msgstr "Ordine"
+
+#: .\forms\templates\admin\forms\change_form.html.py:10
+#: .\forms\templates\admin\forms\entries.html.py:116
+msgid "View entries"
+msgstr "Visualizza le voci"
+
+#: .\forms\templates\admin\forms\change_form.html.py:13
+msgid "History"
+msgstr "Storia"
+
+#: .\forms\templates\admin\forms\change_form.html.py:17
+msgid "View on site"
+msgstr "Vedi sul sito"
+
+#: .\forms\templates\admin\forms\entries.html.py:61
+msgid "No entries selected"
+msgstr "Nessuna voce selezionata"
+
+#: .\forms\templates\admin\forms\entries.html.py:64
+msgid "Delete selected entries?"
+msgstr "Cancella le voci selezionate?"
+
+#: .\forms\templates\admin\forms\entries.html.py:73
+msgid "Home"
+msgstr "Pagina iniziale"
+
+#: .\forms\templates\admin\forms\entries.html.py:88
+msgid "Include"
+msgstr "Includi"
+
+#: .\forms\templates\admin\forms\entries.html.py:89
+msgid "Filter by"
+msgstr "Filtra per"
+
+#: .\forms\templates\admin\forms\entries.html.py:107
+msgid "All"
+msgstr "Tutto"
+
+#: .\forms\templates\admin\forms\entries.html.py:115
+#: .\forms\templates\admin\forms\entries.html.py:158
+msgid "Back to form"
+msgstr "Torna alla form"
+
+#: .\forms\templates\admin\forms\entries.html.py:117
+msgid "Export CSV"
+msgstr "Esporta CSV"
+
+#: .\forms\templates\admin\forms\entries.html.py:119
+msgid "Export XLS"
+msgstr "Esporta XLS"
+
+#: .\forms\templates\admin\forms\entries.html.py:123
+msgid "Entries"
+msgstr "Voci"
+
+#: .\forms\templates\admin\forms\entries.html.py:159
+msgid "Delete selected"
+msgstr "Cancella selezionati"
+
+#: .\forms\templates\admin\forms\entries.html.py:163
+msgid "No entries to display"
+msgstr "Nessuna voce da visualizzare"
